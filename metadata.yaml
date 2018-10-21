@@ -1,5 +1,5 @@
 _repo: Measure-for-Measure_2238
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,5 +31,6 @@ subjects:
 - !lcsh 'Brothers and sisters -- Drama'
 - !lcsh 'Vienna (Austria) -- Drama'
 - !lcsh 'Comedies'
+- GITenberg
 title: Measure for Measure
 url: http://www.gutenberg.org/ebooks/2238
